@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BLL_login/BLL_login.csproj" Id="03681873-43cd-422d-953a-f04d4e90c08f" />
+  <Project Path="DLL_login/DLL_login.csproj" Id="b14eb5f4-d540-410f-9b24-b504e78fdeaf" />
+  <Project Path="project1/project1.csproj" Id="2eaf1caf-0c2c-4cce-9046-5a01f5c308d1" />
+</Solution>
